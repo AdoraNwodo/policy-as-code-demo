@@ -1,0 +1,6 @@
+config:
+  azure-native:location: WestUS
+  policy-as-code-demo:appPath: ./app
+  policy-as-code-demo:errorDocument: error.html
+  policy-as-code-demo:indexDocument: index.html
+  policy-as-code-demo:sitePath: ./www
