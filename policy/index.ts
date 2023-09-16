@@ -1,7 +1,7 @@
 import * as azure from "@pulumi/azure-native";
 import { PolicyPack, validateResourceOfType } from "@pulumi/policy";
 
-new PolicyPack("azure-typescript", {
+new PolicyPack("storage-account-policy", {
     policies: [{
         name: "storage-container-no-public-read",
         description: "Prohibits setting the public permission on Azure Storage Blob Containers.",
