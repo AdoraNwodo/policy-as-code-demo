@@ -6,8 +6,10 @@ This repository contains a demonstration of how to use Pulumi for deploying a se
 - Azure Blob Storage Account: Configured for static website hosting.
 - Azure Function: A serverless compute resource written in JavaScript.
 
-Figure 1. Architecture of the Azure Serverless Application from the Pulumi website - https://www.pulumi.com/templates/serverless-application/azure/
+
 ![Architecture of the Azure Serverless Application](architecture.png "Architecture of the Azure Serverless Application from the Pulumi website - https://www.pulumi.com/templates/serverless-application/azure/")
+<small>Figure 1. Architecture of the Azure Serverless Application from the Pulumi website - https://www.pulumi.com/templates/serverless-application/azure/</small>
+
 
 ## Prerequisites
 Before you begin, ensure you have the following prerequisites in place:
